@@ -27,6 +27,8 @@ It supports downloading songs, creating and downloading playlists and showing li
 This little app is the best replacement for any file-sharing, replacing AirDrop, NearbyShare together by being Cross-Platform. [LocalSend](https://localsend.org) is available on F-Droid and can also be downloaded for iOS, Windows, MacOS and Linux. It makes sharing files via WiFi networks as easy as two clicks!
 ## NewPipe
 [NewPipe](https://newpipe.net) is a Lightweight YouTube-Client for android, also available on F-Droid. Although there are a lot of FOSS video platforms, Google's YouTube is still unbeatable. So this app creates a de-googled experience for YouTube, without any ads and no account needed!
+## DuckDuckGo Privacy Browser
+The best web browser currently available in F-Droid is the [DuckDuckGo Privacy Browser](https://f-droid.org/en/packages/com.duckduckgo.mobile.android/) although I wouldn't recommend it. See my non-FOSS recommendation below.
 ## K-9 Mail
 This is a mail client available on F-Droid. It has all the features you might want, except for notifications. But for having your mails on your PC normally, it's perfect. get [K-9 Mail](https://k9mail.app)!
 ## Xtra
@@ -44,3 +46,5 @@ I believe, you are now set for a while and can find other apps on F-Droid or if 
 Although not in F-Droid by default, this app is a privacy-focused replacement for the WhatsApp messenger.
 ### Nova Launcher
 This is a highly customizable launcher (home screen), available on Google Play, so get it via Aurora.
+### Web Browser
+[Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox) is far more customizable and with the possibillity of installing extensions more private than DuckDuckGo. You can install it via Aurora too.
