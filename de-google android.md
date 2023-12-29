@@ -23,7 +23,7 @@ Just go to *Settings - Apps - All apps - [your app]* and press deactivate.
 For devices running at least Android version 9.0 you can use the [Canta](https://f-droid.org/en/packages/org.samo_lego.canta) from F-Droid. This app uses [Shizuku](https://shizuku.rikka.app/download/) for permissions to uninstall system apps.
 **This is a far more complex but still graphical way to uninstall system apps.**
 You are going to setup debugging for Shizuku to work. For that, you need developer options. Go to *Settings - Device* and press the build number option at the bottom 8 times. Then go to *Settings - System - Developer options* and enable **Wireless Debuging**. Then follow the instructions in the Shizuku app to pair and start the service. When you're done, you can start Canta and get to uninstalling apps.
-### 4.3. Uninstalling via adb
+### 4.3. Uninstall using adb
 If you like the terminal more than graphical apps, you can use adb (the Android Debug Bridge) to connect to your phone from a PC via your USB-Cable. For that, go to *Settings - System - Developer options* and enable **USB-Debugging*. On your system, [install the ADB tools](https://www.xda-developers.com/install-adb-windows-macos-linux/) and open a terminal / cmd window.
 **This is a more complex approach, so you would want to have some knowledge with the terminal or cmd first.**
 Run `adb shell` to open the shell on your phone.
