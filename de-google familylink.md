@@ -3,13 +3,13 @@
 When having kids with phones, you probably have them restricted using Google's FamilyLink. But if you read this guide, you are probably more interested in FOSS software, which Google's apps are not. So here is the solution:
 ## TimeLimit.io
 [TimeLimit](https://timelimit.io) is a FOOS app available in F-Droid to limit app usage times on android. It is capable of setting different limits for custom app categories and is controllable from either the phone itself or another phone via the Connected Mode.
-## Setup
+## 1. Setting up TimeLimit
 To setup TimeLimit, you have two options:
 ### Local Mode
 Setting up TimeLimit in Local Mode is pretty straight-forward. You get the app from F-Droid on you child's phone and follow the setup instructions for the Local Mode. You will setup a parent password and end up with two users, one for the parent and one for the child.
 ### Connected Mode
 In this mode, you can manage the apps on your child's phone from your own phone like in FamilyLink. For that, **first** install TimeLimit on your own phone and setup using the *Connected Mode - Parent e-mail addressl*. You will enter your E-Mail and  create a user in the next steps. Confirm your E-Mail and set a password and username. These are only used in the app to authenticate you're a parent. Once setup on your own phone, you can get TimeLimit on your child's phone and setup in *Connected Mode - Code from another TimeLimit installation*. Now scan the QR-Code or enter the pairing code shown on your device when pressing **Add device** in TimeLimit. Go through the password creation steps and you're done.
-## 2. Configure TimeLimit
+## 2. Configuring TimeLimit
 TimeLimit is all about categories. Every app that isn't in a category gets blocked by default and you can set rules for every single category.
 I would suggest a four-category setup:
 ### Emergency
@@ -23,5 +23,5 @@ This last category contains administrative apps. You should put all the app stor
 The one Rule for this category will be 0 hours 0 minutes (blocked) for all days of the week.
 ## 3. Using TimeLimit
 TimeLimit will now block apps with their time limit used up or blocked from access by the child. If you want to install another app, you can press the toggle for the Operator category and *disable limits* for today or 10 minutes. When you're done, just hit the toggle again and the limits are back on.
-## 4. Cons
+## 4. Cons of using TimeLimit
 TimeLimit is only able to limit apps. If you want to limit internet access, you should consider a VPN (virtual private network). The other method is staying on Google Chrome with Play Services and blocking pages through the Google Account and FamilyLink, although that kind of destroys the reason of this mod.
