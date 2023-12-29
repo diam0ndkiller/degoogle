@@ -43,8 +43,8 @@ The last FOSS app I would recommend is [LibreOffice Viewer](https://f-droid.org/
 I believe, you are now set for a while and can find other apps on F-Droid or if non-FOSS on Aurora for your daily use.
 ## non-FOSS recommendations:
 ### Signal
-Although not in F-Droid by default, this app is a privacy-focused replacement for the WhatsApp messenger.
+Although not in F-Droid by default, the [Signal](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) app is a privacy-focused replacement for the WhatsApp messenger.
 ### Nova Launcher
-This is a highly customizable launcher (home screen), available on Google Play, so get it via Aurora.
+[This](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher) is a highly customizable launcher (home screen), available on Google Play, so get it via Aurora.
 ### Web Browser
 [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox) is far more customizable and with the possibillity of installing extensions more private than DuckDuckGo. You can install it via Aurora too.
