@@ -1,5 +1,5 @@
 *diamonddev presents:*
-# How to de-Google your android phone in (pretty) simple steps
+# De-Google Part 1: How to de-Google your apps
 ## 1. Get F-Droid
 [F-Droid](https://f-droid.org) is an alternative android app store. In F-Droid, there are only FOSS (Free Open Source Software) applications available, so everyone can see what the app actually does and how much it tracks you. The first step for you to take is to try alternatives to default apps.
 **From now on, whenever you need an app, search F-Droid first!**
