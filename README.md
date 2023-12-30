@@ -10,3 +10,4 @@ Using the Free and OpenSource app store <a href="https://f-droid.org">F-Droid</a
   <li><a href="https://github.com/diam0ndkiller/degoogle/blob/main/de-google%20familylink.md">Guide on how to replace Google's FamilyLink for limiting your kid's devices</a></li>
   <li><a href="https://github.com/diam0ndkiller/degoogle/blob/main/result.md">Learn more about the finished android experience</a></li>
 </ul>
+See <a href="https://github.com/tycrek/degoogle">Tycrek's degoogle git for a huge list of replacement apps and services for Google</a>
