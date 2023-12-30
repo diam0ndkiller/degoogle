@@ -22,7 +22,11 @@ All of them are installed via the Aurora Store and I can't recommend them enough
 ## Drawbacks
 After installing all the apps, I went on to uninstalling all the Google apps **and services**. This means, there are no Google Play Services on this device, which CAN result in some apps from the Aurora Store not working. Also I have removed the Google Play Store and in the replacement, the Aurora Store, you can't pay for apps. So decide which features you need and check if you apps still work after a full de-Googleing.
 ## Screenshots
-Here you can see all the installed apps. With the ability to change every single SimpleMobileTool's app icon color I think they look A LOT better than the Google apps.
-![Screenshot of the app drawer](https://github.com/diam0ndkiller/degoogle/blob/main/assets/de-googled%20pixel%20drawer.png)
-A simple setup of the Nova Launcher home screen.
-![Screenshot of the home screen](https://github.com/diam0ndkiller/degoogle/blob/main/assets/de-googled%20pixel%20home.png)
+Here you can see all the installed apps. With the ability to change every single SimpleMobileTool's app icon color I think they look A LOT better than the Google apps:
+
+[Screenshot of the app drawer](https://github.com/diam0ndkiller/degoogle/blob/main/assets/de-googled%20pixel%20drawer.png)
+
+A simple setup of the Nova Launcher home screen:
+
+[Screenshot of the home screen](https://github.com/diam0ndkiller/degoogle/blob/main/assets/de-googled%20pixel%20home.png)
+
