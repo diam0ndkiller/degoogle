@@ -1,6 +1,6 @@
 *diamonddev presents:*
 # Result of de-Googling your phone
-On this emulated Google Pixel 3a I have removed all Google Software and installed FOSS and other alternatives instead. In just half an hour there were no traces of Google left.
+On an emulated Google Pixel 3a I have removed all Google Software and installed FOSS and other alternatives instead. In just half an hour there were no traces of Google left.
 ## Installd apps
 ### FOSS Apps
 Currently, there is almost the entire SimpleMobileTools suite installed. Additionally, I have
