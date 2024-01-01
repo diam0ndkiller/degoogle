@@ -1,5 +1,5 @@
 # `degoogle` scripts in this repo
-BEFORE YOUR READ: Please read the [general guide](https://github.com/dim0ndkiller/degoogle/blob/main/de-google%20android.md) first.
+BEFORE YOUR READ: Please read the [general guide](https://github.com/diam0ndkiller/degoogle/blob/main/de-google%20android.md) first.
 
 In this repo there are three scripts made to automatically de-google your phone. They can be found in the scripts folder. To run them, download the repo. The three scripts are:
 ## `degoogle_android.py`
