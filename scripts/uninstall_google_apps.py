@@ -51,7 +51,7 @@ GOOGLE_UNREPLACED_APPS = {
 	"com.google.android.apps.maps": "Google Maps [Replacement in the Aurora Store]",
 	"com.google.android.apps.docs": "Google Drive [No ONE logical Replacement]",
 	"com.android.vending": "Google Play Store [Only needed for Paid apps]",
-	"com.google.android.gms": "!!! Google Play Services [NEEDED FOR SOME APPS TO RUN, also BREAKS SETTINGS SEARCHING (idk why)]",
+	"com.google.android.gms": "!!! Google Play Services [RESPONSIBLE FOR MOST TRACKING, NEEDED FOR SOME APPS TO RUN, also BREAKS SETTINGS SEARCH BAR (idk why)]",
 	"com.google.android.gsf": "!!! Google Play Services Framework [NEEDED FOR GMS]",
 	"com.google.android.gms.supervision": "Google Parental Control Services [Needed for FamilyLink]",
 	"com.google.android.odad": "Google Play Protect [Only uninstall when removing services]",
