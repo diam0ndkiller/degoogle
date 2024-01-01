@@ -6,6 +6,8 @@ In this repo there are three scripts made to automatically de-google your phone.
 This is a python script to manage the other two scripts and show general information.
 ## `install_fdroid_apps.py`
 This script is responsible of installing open-source apps from F-Droid (and also installing F-Droid itself). It can't break stuff that easily because it is only adding apps.
+
+To run this part of the script, you will need to install [`fdroidcl`](https://github.com/mvdan/fdroidcl) on your system, available on Windows and Linux. Requires Go 1.19 or later.
 ## `uninstall_google_apps.py`
 This is the critical script. It UNINSTALLS most of Google's non-essential software from your phone. You can choose, what apps you want to uninstall. DO READ the descriptions of the apps you want to uninstall in this script.
 
