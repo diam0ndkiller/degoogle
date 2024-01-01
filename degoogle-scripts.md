@@ -1,3 +1,4 @@
+*diamonddev presents:*
 # `degoogle` scripts in this repo
 BEFORE YOUR READ: Please read the [general guide](https://github.com/diam0ndkiller/degoogle/blob/main/de-google%20android.md) first.
 
