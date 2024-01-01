@@ -15,7 +15,7 @@ Currently, there is almost the entire SimpleMobileTools suite installed. Additio
 All of these are installed via [F-Droid](https://f-droid.org)
 ### non-FOSS apps
 Also, as you can see, I have Canta and Shizuku installed. With those I have uninstalled every Google app, which would not be possible in the normal settings. Also, I had to use an adb shell to uninstall the Google Calendar, no idea why. But that worked no problem. The non-FOSS app on this device are
-- **HERE We Go** for navigation
+- **HERE WeGo** for navigation
 - the **Nova Launcher** as a replacement for the default Pixel Launcher home screen and
 - **dynamicSpot**, an app to emulate Apple's Dynamic Island when recieving a notification.
 
