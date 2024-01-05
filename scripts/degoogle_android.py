@@ -4,7 +4,7 @@ from install_fdroid_apps import *
 from uninstall_google_apps import *
 
 POSTINSTALL_FIXES = '''
-\x1b[94mAfter installation, please change these settings:
+\x1b[91mAfter installation, please change these settings:
 - "Settings/Apps/Default apps":
   - set "Phone app" to "Dialer"
   - set "Home app" to "Launcher"
