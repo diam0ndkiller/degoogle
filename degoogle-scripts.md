@@ -2,13 +2,16 @@
 # `degoogle` scripts in this repo
 BEFORE YOUR READ: Please read the [general guide](https://github.com/diam0ndkiller/degoogle/blob/main/de-google%20android.md) first.
 
-In this repo there are three scripts made to automatically de-google your phone. They can be found in the scripts folder. To run them, download the repo. The three scripts are:
+In this repo there are three scripts made to automatically de-google your phone. They can be found in the scripts folder. To run them, download the repo.
+
+You will need to install **adb** (the Android Debug Bridge), guides to do that are all around the internet. Then you will have to enable *Settings - System - Developer Options - USB Debugging* and connect your phone to your PC with your cable. For the F-Droid installer script you will also need to install [`fdroidcl`](https://github.com/mvdan/fdroidcl) on your system, available on Windows and Linux. Requires Go 1.19 or later.
+
+The three scripts are:
 ## `degoogle_android.py`
 This is a python script to manage the other two scripts and show general information.
 ## `install_fdroid_apps.py`
 This script is responsible of installing open-source apps from F-Droid (and also installing F-Droid itself). It can't break stuff that easily because it is only adding apps.
 
-To run this part of the script, you will need to install [`fdroidcl`](https://github.com/mvdan/fdroidcl) on your system, available on Windows and Linux. Requires Go 1.19 or later.
 ## `uninstall_google_apps.py`
 This is the critical script. It UNINSTALLS most of Google's non-essential software from your phone. You can choose, what apps you want to uninstall. DO READ the descriptions of the apps you want to uninstall in this script.
 
